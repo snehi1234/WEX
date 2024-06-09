@@ -15,10 +15,14 @@
     <None Remove="models\" />
     <None Remove="Repositories\" />
     <None Remove="Interfaces\" />
+    <None Remove="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="models\" />
     <Folder Include="Repositories\" />
     <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="README.md" />
   </ItemGroup>
 </Project>
