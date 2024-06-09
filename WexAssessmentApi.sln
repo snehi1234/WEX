@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1700.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WexAssessmentApi", "WexAssessmentApi\WexAssessmentApi.csproj", "{CA71D5A7-1E6A-4EDA-B0F6-3D5E59D4F12F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{EBB2A1AE-5F07-40AF-9917-CF8AEE49041A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CA71D5A7-1E6A-4EDA-B0F6-3D5E59D4F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA71D5A7-1E6A-4EDA-B0F6-3D5E59D4F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA71D5A7-1E6A-4EDA-B0F6-3D5E59D4F12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB2A1AE-5F07-40AF-9917-CF8AEE49041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB2A1AE-5F07-40AF-9917-CF8AEE49041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB2A1AE-5F07-40AF-9917-CF8AEE49041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB2A1AE-5F07-40AF-9917-CF8AEE49041A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
